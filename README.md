@@ -1,8 +1,6 @@
 # Avani Panara
 
-<p align="center">
-  <img src="./image.png" alt="Avani Panara" width="160" />
-</p>
+
 
 ## 👋 Hi — I'm Avani
 ML & Data Science developer who turns messy data into reliable insights and production-ready ML solutions. I specialize in practical machine learning, clean data pipelines, and model deployment that creates business impact.
@@ -43,4 +41,3 @@ I keep hands-on projects and experiment notebooks on my GitHub and Kaggle profil
 
 ---
 
-Made with ❤️  •  Last updated: July 28, 2026
